@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica2_JonathanLopez</string>
+    <array name="valores">
+        <item>Todos</item>
+        <item>Nombre</item>
+        <item>Domicilio</item>
+        <item>Celular</item>
+        <item>Producto</item>
+        <item>Precio</item>
+        <item>Cantidad</item>
+        <item>Entregado</item>
+        <item>No entregado</item>
+
+    </array>
+</resources>

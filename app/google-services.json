@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010961734877",
+    "firebase_url": "https://ladmu3-practica2-jonathanlopez.firebaseio.com",
+    "project_id": "ladmu3-practica2-jonathanlopez",
+    "storage_bucket": "ladmu3-practica2-jonathanlopez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010961734877:android:526b6a3c120d46d68bcf34",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_practica2_jonathanlopez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010961734877-b45mnq51vvcclqrnptl71359bnsmt5o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kxw_w82dPsAW1daGXJALD60HZVaL-8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010961734877-b45mnq51vvcclqrnptl71359bnsmt5o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
